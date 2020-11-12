@@ -1,0 +1,42 @@
+.root{
+    background-color: #eee !important;
+}
+.login{
+    font-family: sans-serif !important;
+    font-size: 1rem !important;
+    text-transform: capitalize;
+    color: rgb(2, 20, 13) !important;
+    font-weight: bolder;
+    border-bottom: 2px solid #232;
+}
+.login:hover{
+    border-bottom: none;
+}
+.navbar{
+    border-bottom: 3px solid #ddd;
+    height: 100px;
+    background-color: #eee;
+}
+.closemodal:active{
+    text-align: left;
+    border: none;
+    outline: none;
+}
+.continue{
+    padding: 10px 10px;
+    border: 1.5px solid rgb(38, 59, 41);
+    color: rgb(35, 82, 56);
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 1.3em;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.continue:hover{
+border: 3px solid rgb(38, 59, 41);    
+}
+.dialog{
+    height: 100% !important;
+}

@@ -1,0 +1,11 @@
+.App{
+    padding: 10px;
+} 
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layout{
+    background-color: #333;
+}
